@@ -133,12 +133,11 @@ http://localhost:3000
 ### 🔐 Login Page
 ![Login Page](Login%20Page.png)
 
-### ✈️ Flight Booking
-![Flight Booking](Flight%20Booking.png)
-
-### 📄 Booking Confirmation
+### 📄 Booking Details 
 ![Booking](Booking.png)
 
+### ✈️ Flight Booking
+![Flight Booking](Flight%20Booking.png)
 
 
 ## 📜 License
