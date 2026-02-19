@@ -127,8 +127,17 @@ http://localhost:3000
 
 ## 📸 Screenshots
 
-### Home Page
-![Home Page](Home Page.png)
+### 🏠 Home Page
+![Home Page](Home%20Page.png)
+
+### 🔐 Login Page
+![Login Page](Login%20Page.png)
+
+### ✈️ Flight Booking
+![Flight Booking](Flight%20Booking.png)
+
+### 📄 Booking Confirmation
+![Booking](Booking.png)
 
 
 
