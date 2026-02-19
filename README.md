@@ -128,11 +128,8 @@ http://localhost:3000
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/Home Page.png)
-Home Page.png
-Login Page.png
-Booking.png
-Flight Booking.png
+![Home Page](Home Page.png)
+
 
 
 ## 📜 License
