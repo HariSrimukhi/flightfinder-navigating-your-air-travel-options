@@ -127,7 +127,10 @@ http://localhost:3000
 
 ## 📸 Screenshots
 
-![Uploading image.png…]()
+Home Page.png
+Login Page.png
+Booking.png
+Flight Booking.png
 
 
 ## 📜 License
